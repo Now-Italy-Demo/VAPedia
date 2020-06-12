@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wikipedia Search Log" max_length="40" name="x_snc_vapedia_wikipedia_search_log" type="collection">
+        <element display="true" label="Query" max_length="4000" name="query" type="string"/>
+    </element>
+</database>

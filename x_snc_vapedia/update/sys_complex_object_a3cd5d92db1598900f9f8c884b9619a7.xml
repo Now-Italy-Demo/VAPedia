@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDefcd5d92bf1598900f4eacca858827a6</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>986fbf8d1b55d090722eec61ec4bcba1</scope_name>
+        <serialized_content>{"FlowDesigner:FDefcd5d92bf1598900f4eacca858827a6":{"wiki_results":[{"$52_wiki_results":{"pageid":"String","pageid.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"pageid\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"},"title":"String","title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"title\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"}}}],"wiki_results.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"wiki_results\",\"mandatory\":\"true\",\"child_name\":\"wiki_result\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"wiki_result\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"0\",\"child_uiUniqueId\":\"74f6a31d-aa3d-4d5e-99eb-2eb029aa050b\"}"}},"FlowDesigner:FDefcd5d92bf1598900f4eacca858827a6.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"responseobject\",\"mandatory\":\"true\",\"uiUniqueId\":\"d9b63650-58d0-4f4f-81be-fcbbad45e606\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDefcd5d92bf1598900f4eacca858827a6\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-11 17:04:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3cd5d92db1598900f9f8c884b9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDefcd5d92bf1598900f4eacca858827a6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="VAPedia" source="x_snc_vapedia">986fbf8d1b55d090722eec61ec4bcba1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VAPedia">986fbf8d1b55d090722eec61ec4bcba1</sys_scope>
+        <sys_update_name>sys_complex_object_a3cd5d92db1598900f9f8c884b9619a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-11 17:04:15</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
